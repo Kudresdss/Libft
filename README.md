@@ -1,6 +1,6 @@
 # Libft
 First project of 42cursus.
-Hello! This is my libft static library project for 42cursus. I study in Moscow's campus.
+Hello! This is my libft static library project for 42cursus. I am studying in Moscow's campus.
 
 All of the following actions must be done inside the copied project's directory, in the command line.
 
